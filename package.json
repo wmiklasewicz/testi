@@ -1,0 +1,30 @@
+{
+  "name": "testi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmiklasewicz/testi.git"
+  },
+  "keywords": [],
+  "author": "Wioletta Mikłasewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmiklasewicz/testi/issues"
+  },
+  "homepage": "https://github.com/wmiklasewicz/testi#readme",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "fs-extra": "^10.0.0",
+    "jira-client": "^8.0.0",
+    "needle": "^3.0.0",
+    "util": "^0.12.4"
+  }
+}
